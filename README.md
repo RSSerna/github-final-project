@@ -1,5 +1,6 @@
 # github-final-project
-This Repo is part of a Coursera Project, as part 1/2 
+This Repo is part of a Coursera Project, as part 1/2
+s
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
